@@ -2,7 +2,7 @@ public class OperadoresLogico {
     public static void main(String[] args) {
 
         int i = 3;
-        byte j = 7;
+        byte j = 3;
         float k = 127e-7f;
         double l = 2.1413e3; // 2141.3
         boolean m = false;
@@ -19,6 +19,20 @@ public class OperadoresLogico {
         boolean b4 = i == j && (k > l || m == false);
         System.out.println("b4 = " + b4);
 
+        boolean b5 = (i == j || k < l) && m == true;
+        System.out.println("b5 = " + b5);
+
+        boolean b6 = true || true && false; // prioridad es && luego analiza el ||
+        System.out.println("b6 = " + b6);
+
+        boolean b7 = (true || true) && false;
+        System.out.println("b7 = " + b7);
+
+        boolean b8 = true || false && false || false;
+        System.out.println("b8 = " + b8);
+
+        boolean b9 = ((true || false) && false) || false;
+        System.out.println("b9 = " + b9);
 
     }
 }

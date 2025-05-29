@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ProgramaNombreMasLargo {
+public class OperadorTareaSolucion3 {
     public static void main(String[] args) {
         String persona1 = JOptionPane.showInputDialog("Ingresa el nombre y apellido de un familiar o amigo:");
         String persona2 = JOptionPane.showInputDialog("Ingresa el nombre y apellido de un familiar o amigo:");

@@ -8,7 +8,7 @@ public class EjemploAsignarPropiedadesDeSistema {
     public static void main(String[] args) {
 
         try {
-            FileInputStream archivo = new FileInputStream("src/System/config.properties");
+            FileInputStream archivo = new FileInputStream("src/System/config2.properties");
 
             Properties p = new Properties(System.getProperties());
             p.load(archivo);
@@ -23,7 +23,8 @@ public class EjemploAsignarPropiedadesDeSistema {
 
             ps.list(System.out);
         } catch (Exception e) {
-            System.out.println("no existe el archivo = " + e);
+            System.err.println("no existe el archivo = " + e);
+            System.exit(1);
         }
     }
 }

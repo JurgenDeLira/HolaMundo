@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringCadenas/EjemploStringConcatenación.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringConcatenación.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringCadenas/EjemploStringInmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringInmutable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   "keyToString": {
     "Application.EjemploString.executor": "Run",
     "Application.EjemploStringConcatenación.executor": "Run",
+    "Application.EjemploStringInmutable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -35,7 +36,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjemploStringConcatenación">
+  <component name="RunManager" selected="Application.EjemploStringInmutable">
     <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploString" />
       <module name="HolaMundo" />
@@ -49,8 +50,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploStringConcatenación" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringConcatenación" />
+    <configuration name="EjemploStringConcatenacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringConcatenacion" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringCadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploStringInmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringInmutable" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjemploStringConcatenación" />
+        <item itemvalue="Application.EjemploStringInmutable" />
+        <item itemvalue="Application.EjemploStringConcatenacion" />
         <item itemvalue="Application.EjemploString" />
       </list>
     </recent_temporary>

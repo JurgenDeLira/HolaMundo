@@ -1,4 +1,4 @@
-package Curso;
+package StringCadenas;
 
 public class EjemploStringValidar {
     public static void main(String[] args) {

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringConcatenación.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringConcatenación.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringExtensionArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringInmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringInmutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringMetodosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringTestRendimientoConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/EjemploStringValidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringValidar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="34qPqwSm1dnKwRbB06AmGjsosiX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjemploString.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Arq. Jorge De Lira/Desktop/need/Cursos/Intellij/Java/HolaMundo",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploString" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringCadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="" />
+      <created>1761938322308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761938322308</updated>
+    </task>
+    <servers />
+  </component>
+</project>

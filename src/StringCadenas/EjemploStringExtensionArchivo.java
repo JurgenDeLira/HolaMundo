@@ -1,4 +1,4 @@
-package Curso;
+package StringCadenas;
 
 public class EjemploStringExtensionArchivo {
     public static void main(String[] args) {

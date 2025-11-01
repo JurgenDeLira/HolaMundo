@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringCadenas/EjemploStringValidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringValidar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringCadenas/EjemploStringMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCadenas/EjemploStringMetodos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
     "Application.EjemploString.executor": "Run",
     "Application.EjemploStringConcatenación.executor": "Run",
     "Application.EjemploStringInmutable.executor": "Run",
+    "Application.EjemploStringMetodos.executor": "Run",
     "Application.EjemploStringValidar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -37,7 +38,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjemploStringValidar">
+  <component name="RunManager" selected="Application.EjemploStringMetodos">
     <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploString" />
       <module name="HolaMundo" />
@@ -77,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringMetodos" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringCadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploStringValidar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringValidar" />
       <module name="HolaMundo" />
@@ -92,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploStringMetodos" />
         <item itemvalue="Application.EjemploStringValidar" />
         <item itemvalue="Application.EjemploStringInmutable" />
         <item itemvalue="Application.EjemploStringConcatenacion" />

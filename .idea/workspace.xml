@@ -49,7 +49,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConcatenandoString">
+  <component name="RunManager" selected="Application.Inmutabilidad">
     <configuration name="ConcatenandoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ConcatenandoString" />
       <module name="HolaMundo" />
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploStringExtensionArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringExtensionArchivo" />
+    <configuration name="EjemploStringMetodosArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringMetodosArreglo" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploStringMetodosArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringMetodosArreglo" />
+    <configuration name="Inmutabilidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.Inmutabilidad" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringCadenas.*" />
+          <option name="PATTERN" value="EjerciciosStringCadenas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inmutabilidad" />
         <item itemvalue="Application.ConcatenandoString" />
         <item itemvalue="Application.CreandoObjetosStringEnLaLiteral" />
         <item itemvalue="Application.IntroduccionALosStrings" />
         <item itemvalue="Application.EjemploStringMetodosArreglo" />
-        <item itemvalue="Application.EjemploStringExtensionArchivo" />
       </list>
     </recent_temporary>
   </component>

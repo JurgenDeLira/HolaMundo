@@ -34,6 +34,7 @@
   "keyToString": {
     "Application.ConcatenandoString.executor": "Run",
     "Application.ConcatenarConVSConcat.executor": "Run",
+    "Application.ConvertirStringAArreglo.executor": "Run",
     "Application.CreandoObjetosStringEnLaLiteral.executor": "Run",
     "Application.EjemploString.executor": "Run",
     "Application.EjemploStringConcatenación.executor": "Run",
@@ -45,6 +46,7 @@
     "Application.Inmutabilidad.executor": "Run",
     "Application.IntroduccionALosStrings.executor": "Run",
     "Application.MetodosImportantesString.executor": "Run",
+    "Application.ObtenerExtensionArchivo.executor": "Run",
     "Application.ValidarUnString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -53,9 +55,9 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MetodosImportantesString">
-    <configuration name="ConcatenarConVSConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ConcatenarConVSConcat" />
+  <component name="RunManager" selected="Application.ConvertirStringAArreglo">
+    <configuration name="ConvertirStringAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ConvertirStringAArreglo" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidarUnString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ValidarUnString" />
+    <configuration name="ObtenerExtensionArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ObtenerExtensionArchivo" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MetodosImportantesString" />
+        <item itemvalue="Application.ConvertirStringAArreglo" />
         <item itemvalue="Application.EjemploStringMetodosArreglo" />
+        <item itemvalue="Application.ObtenerExtensionArchivo" />
+        <item itemvalue="Application.MetodosImportantesString" />
         <item itemvalue="Application.EjemploStringMetodos" />
-        <item itemvalue="Application.ValidarUnString" />
-        <item itemvalue="Application.ConcatenarConVSConcat" />
       </list>
     </recent_temporary>
   </component>

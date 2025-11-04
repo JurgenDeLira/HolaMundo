@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjerciciosOperadores/OperadoresBasicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosOperadores/OperadoresBasicos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,26 +55,13 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConvertirStringAArreglo">
+  <component name="RunManager" selected="Application.OperadoresBasicos">
     <configuration name="ConvertirStringAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ConvertirStringAArreglo" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EjerciciosStringCadenas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringMetodos" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringCadenas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperadoresBasicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadoresBasicos" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresBasicos" />
         <item itemvalue="Application.ConvertirStringAArreglo" />
         <item itemvalue="Application.EjemploStringMetodosArreglo" />
         <item itemvalue="Application.ObtenerExtensionArchivo" />
         <item itemvalue="Application.MetodosImportantesString" />
-        <item itemvalue="Application.EjemploStringMetodos" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package Curso;
+package Operadores;
 
 import java.util.Scanner;
 

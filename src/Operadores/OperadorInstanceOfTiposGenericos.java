@@ -1,4 +1,4 @@
-package Curso;
+package Operadores;
 
 public class OperadorInstanceOfTiposGenericos {
     public static void main(String[] args) {

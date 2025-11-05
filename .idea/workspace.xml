@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosOperadores/OperadoresBasicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosOperadores/OperadoresBasicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorAritmeticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorInstanceOfTiposGenericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTarea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTarea2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTarea2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTarea3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTarea3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTareaSolucion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTareaSolucion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTareaSolucion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTareaSolucion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTareaSolucion3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTareaSolucion3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTernario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernario2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadorTernarioNumeroMayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernarioNumeroMayor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresAsignacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresAsignacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresIncrementales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresIncrementales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresLogico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresLogicosLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresLogicosLoginArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresLogicosLoginArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArrays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresRelacionales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso/OperadoresUnarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresUnarios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +67,8 @@
     "Application.IntroduccionALosStrings.executor": "Run",
     "Application.MetodosImportantesString.executor": "Run",
     "Application.ObtenerExtensionArchivo.executor": "Run",
+    "Application.OperadoresBasicos.executor": "Run",
+    "Application.OperadoresIncrementoDecremento.executor": "Run",
     "Application.ValidarUnString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -55,7 +77,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OperadoresBasicos">
+  <component name="RunManager" selected="Application.OperadoresIncrementoDecremento">
     <configuration name="ConvertirStringAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ConvertirStringAArreglo" />
       <module name="HolaMundo" />
@@ -75,19 +97,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringCadenas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetodosImportantesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.MetodosImportantesString" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosStringCadenas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperadoresIncrementoDecremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadoresIncrementoDecremento" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresIncrementoDecremento" />
         <item itemvalue="Application.OperadoresBasicos" />
         <item itemvalue="Application.ConvertirStringAArreglo" />
         <item itemvalue="Application.EjemploStringMetodosArreglo" />
         <item itemvalue="Application.ObtenerExtensionArchivo" />
-        <item itemvalue="Application.MetodosImportantesString" />
       </list>
     </recent_temporary>
   </component>

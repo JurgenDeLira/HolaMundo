@@ -1,20 +1,13 @@
-package Curso;
+package Operadores;
 
 import java.util.Scanner;
 
-public class OperadoresLogicosLoginArrays {
+public class OperadorTernario2 {
     public static void main(String[] args) {
 
-        String[] usernames = new String[3];
-        String[] passwords = new String[3];
-        usernames[0] = "jorge";
-        passwords[0] = "12345";
+        String[] usernames = {"jorge", "admin", "pepe"};
+        String[] passwords = {"123", "1234", "12345"};
 
-        usernames[1] = "admin";
-        passwords[1] = "12345";
-
-        usernames[2] = "pepe";
-        passwords[2] = "12345";
 
         Scanner scanner = new Scanner(System.in);
 
@@ -27,17 +20,21 @@ public class OperadoresLogicosLoginArrays {
         boolean esAutenticado = false;
 
         for (int i = 0; i < usernames.length; i++){
-            if ( (usernames[i].equals(usuario) && passwords[i].equals(contrasena)) ){
+            esAutenticado = (usernames[i].equals(usuario) && passwords[i].equals(contrasena)) ? true : esAutenticado;
+            /*if ( (usernames[i].equals(usuario) && passwords[i].equals(contrasena)) ){
                 esAutenticado = true;
                 break;
-            }
+            }*/
         }
+        String mensaje = esAutenticado ? "Bienvenido usuario " + usuario + "!" :
+                "Username o contraseña incorrecto !\nLo sentimos, requiere autenticación";
+        System.out.println("mensaje = " + mensaje);
 
-        if (esAutenticado == true){ // o simplemente (esAutenticado)
+        /*if (esAutenticado == true){ // o simplemente (esAutenticado)
             System.out.println("Bienvenido usuario ".concat(usuario).concat("!"));
         } else {
             System.out.println("Username o contraseña incorrecta");
             System.out.println("Lo siento, requiere autenticación");
-        }
+        }*/
     }
 }

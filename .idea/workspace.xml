@@ -47,8 +47,10 @@
     "Application.IntroduccionALosStrings.executor": "Run",
     "Application.MetodosImportantesString.executor": "Run",
     "Application.ObtenerExtensionArchivo.executor": "Run",
+    "Application.OperadorTernario.executor": "Run",
     "Application.OperadoresBasicos.executor": "Run",
     "Application.OperadoresIncrementoDecremento.executor": "Run",
+    "Application.OperadoresRelacionalesLogicos.executor": "Run",
     "Application.ValidarUnString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -57,7 +59,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OperadoresRelacionalesLogicos">
+  <component name="RunManager" selected="Application.OperadorTernario">
     <configuration name="ConvertirStringAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosStringCadenas.ConvertirStringAArreglo" />
       <module name="HolaMundo" />
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploStringMetodosArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCadenas.EjemploStringMetodosArreglo" />
+    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadorTernario" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringCadenas.*" />
+          <option name="PATTERN" value="EjerciciosOperadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadorTernario" />
         <item itemvalue="Application.OperadoresRelacionalesLogicos" />
         <item itemvalue="Application.OperadoresIncrementoDecremento" />
         <item itemvalue="Application.OperadoresBasicos" />
         <item itemvalue="Application.ConvertirStringAArreglo" />
-        <item itemvalue="Application.EjemploStringMetodosArreglo" />
       </list>
     </recent_temporary>
   </component>

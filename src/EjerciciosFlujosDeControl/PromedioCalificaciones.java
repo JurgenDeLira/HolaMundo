@@ -13,19 +13,20 @@ public class PromedioCalificaciones {
         int i = 0;
 
         while (true){
-            System.out.println("Ingresa una calificación (negativo para salir): ");
+            System.out.println("Ingresa calificaciones (introducir negativo para terminar): ");
             double calificacion = sc.nextDouble();
-            if (calificacion < 0) {
+            if (calificacion < 0){
                 break;
             }
             suma += calificacion;
             i++;
+
         }
         if (i > 0) {
             double promedio = suma / i;
-            System.out.println("El promedio es: " + promedio);
+            System.out.println("El promedio de calificaciones es de: " + promedio);
         } else {
-            System.out.println("No se ingresaron calificaciones válidas.");
+            System.out.println("No se ingresaron calificaciones válidas");
         }
         sc.close();
     }

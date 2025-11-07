@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/SumaHastaN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/SumaHastaN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PromedioCalificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PromedioCalificaciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="34qPqwSm1dnKwRbB06AmGjsosiX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BuscarEnMatriz.executor": "Run",
     "Application.ConcatenandoString.executor": "Run",
     "Application.ConcatenarConVSConcat.executor": "Run",
     "Application.ConvertirStringAArreglo.executor": "Run",
@@ -67,9 +68,9 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PromedioCalificaciones">
-    <configuration name="DiaMesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.DiaMesSwitch" />
+  <component name="RunManager" selected="Application.BuscarEnMatriz">
+    <configuration name="BuscarEnMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.BuscarEnMatriz" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvaluadorDeDesempeñoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.EvaluadorDeDesempeñoArray" />
+    <configuration name="DiaMesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.DiaMesSwitch" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EjerciciosOperadores.*" />
+          <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuscarEnMatriz" />
         <item itemvalue="Application.PromedioCalificaciones" />
         <item itemvalue="Application.SumaHastaN" />
         <item itemvalue="Application.DiaMesSwitch" />
         <item itemvalue="Application.PositivoNegativoCero" />
-        <item itemvalue="Application.EvaluadorDeDesempeñoArray" />
       </list>
     </recent_temporary>
   </component>

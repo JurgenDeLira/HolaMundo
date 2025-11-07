@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PositivoNegativoCero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PositivoNegativoCero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjerciciosOperadores/EvaluadorDeDesempeño.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosOperadores/EvaluadorDeDesempeño.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,8 @@
     "Application.EjemploStringMetodos.executor": "Run",
     "Application.EjemploStringMetodosArreglo.executor": "Run",
     "Application.EjemploStringValidar.executor": "Run",
+    "Application.EvaluadorDeDesempeño.executor": "Run",
+    "Application.EvaluadorDeDesempeñoArray.executor": "Run",
     "Application.Inmutabilidad.executor": "Run",
     "Application.IntroduccionALosStrings.executor": "Run",
     "Application.MetodosImportantesString.executor": "Run",
@@ -51,6 +55,7 @@
     "Application.OperadoresBasicos.executor": "Run",
     "Application.OperadoresIncrementoDecremento.executor": "Run",
     "Application.OperadoresRelacionalesLogicos.executor": "Run",
+    "Application.PositivoNegativoCero.executor": "Run",
     "Application.PrecedenciaOperadores.executor": "Run",
     "Application.ValidarUnString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,7 +65,33 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrecedenciaOperadores">
+  <component name="RunManager" selected="Application.PositivoNegativoCero">
+    <configuration name="EvaluadorDeDesempeño" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.EvaluadorDeDesempeño" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluadorDeDesempeñoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.EvaluadorDeDesempeñoArray" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadorTernario" />
       <module name="HolaMundo" />
@@ -74,38 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresBasicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadoresBasicos" />
+    <configuration name="PositivoNegativoCero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.PositivoNegativoCero" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EjerciciosOperadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadoresIncrementoDecremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadoresIncrementoDecremento" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosOperadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadoresRelacionalesLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadoresRelacionalesLogicos" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosOperadores.*" />
+          <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PositivoNegativoCero" />
+        <item itemvalue="Application.EvaluadorDeDesempeñoArray" />
+        <item itemvalue="Application.EvaluadorDeDesempeño" />
         <item itemvalue="Application.PrecedenciaOperadores" />
         <item itemvalue="Application.OperadorTernario" />
-        <item itemvalue="Application.OperadoresRelacionalesLogicos" />
-        <item itemvalue="Application.OperadoresIncrementoDecremento" />
-        <item itemvalue="Application.OperadoresBasicos" />
       </list>
     </recent_temporary>
   </component>

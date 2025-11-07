@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PositivoNegativoCero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PositivoNegativoCero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosOperadores/EvaluadorDeDesempeño.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosOperadores/EvaluadorDeDesempeño.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
     "Application.ConcatenarConVSConcat.executor": "Run",
     "Application.ConvertirStringAArreglo.executor": "Run",
     "Application.CreandoObjetosStringEnLaLiteral.executor": "Run",
+    "Application.DiaMesSwitch.executor": "Run",
     "Application.EjemploString.executor": "Run",
     "Application.EjemploStringConcatenación.executor": "Run",
     "Application.EjemploStringExtensionArchivo.executor": "Run",
@@ -65,7 +64,20 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PositivoNegativoCero">
+  <component name="RunManager" selected="Application.DiaMesSwitch">
+    <configuration name="DiaMesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.DiaMesSwitch" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EvaluadorDeDesempeño" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.EvaluadorDeDesempeño" />
       <module name="HolaMundo" />
@@ -81,19 +93,6 @@
     </configuration>
     <configuration name="EvaluadorDeDesempeñoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.EvaluadorDeDesempeñoArray" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosOperadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.OperadorTernario" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiaMesSwitch" />
         <item itemvalue="Application.PositivoNegativoCero" />
         <item itemvalue="Application.EvaluadorDeDesempeñoArray" />
         <item itemvalue="Application.EvaluadorDeDesempeño" />
         <item itemvalue="Application.PrecedenciaOperadores" />
-        <item itemvalue="Application.OperadorTernario" />
       </list>
     </recent_temporary>
   </component>

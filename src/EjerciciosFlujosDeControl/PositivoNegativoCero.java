@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class PositivoNegativoCero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Ingresa un número: ");
+        System.out.print("Ingresa un número entero: ");
         int num = sc.nextInt();
 
         // TODO: usa if / else if / else
@@ -19,5 +19,6 @@ public class PositivoNegativoCero {
         } else {
             System.out.println("Cero");
         }
+        sc.close();
     }
 }

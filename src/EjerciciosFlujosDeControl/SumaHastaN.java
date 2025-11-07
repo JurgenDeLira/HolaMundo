@@ -12,7 +12,7 @@ public class SumaHastaN {
         int N = 0;
 
         while (true){
-            System.out.println("Ingresa un número entero: ");
+            System.out.print("Ingresa un número entero: ");
 
             if(sc.hasNextInt()){
                 N = sc.nextInt();

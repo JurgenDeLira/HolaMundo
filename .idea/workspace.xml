@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/SumaHastaN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/SumaHastaN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Application.OperadoresRelacionalesLogicos.executor": "Run",
     "Application.PositivoNegativoCero.executor": "Run",
     "Application.PrecedenciaOperadores.executor": "Run",
+    "Application.PromedioCalificaciones.executor": "Run",
     "Application.SumaHastaN.executor": "Run",
     "Application.ValidarUnString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,26 +67,13 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumaHastaN">
+  <component name="RunManager" selected="Application.PromedioCalificaciones">
     <configuration name="DiaMesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.DiaMesSwitch" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvaluadorDeDesempeño" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosOperadores.EvaluadorDeDesempeño" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosOperadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PromedioCalificaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.PromedioCalificaciones" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumaHastaN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.SumaHastaN" />
       <module name="HolaMundo" />
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PromedioCalificaciones" />
         <item itemvalue="Application.SumaHastaN" />
         <item itemvalue="Application.DiaMesSwitch" />
         <item itemvalue="Application.PositivoNegativoCero" />
         <item itemvalue="Application.EvaluadorDeDesempeñoArray" />
-        <item itemvalue="Application.EvaluadorDeDesempeño" />
       </list>
     </recent_temporary>
   </component>

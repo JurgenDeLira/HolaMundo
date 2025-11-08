@@ -59,6 +59,7 @@
     "Application.PositivoNegativoCero.executor": "Run",
     "Application.PrecedenciaOperadores.executor": "Run",
     "Application.PromedioCalificaciones.executor": "Run",
+    "Application.SistemaNotasAlumnos.executor": "Run",
     "Application.SumaHastaN.executor": "Run",
     "Application.ValidarUnString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,22 +69,9 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EncontrarMenorDeMultiplesValores">
+  <component name="RunManager" selected="Application.SistemaNotasAlumnos">
     <configuration name="BuscarEnMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.BuscarEnMatriz" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiaMesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.DiaMesSwitch" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -121,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemaNotasAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.SistemaNotasAlumnos" />
+      <module name="HolaMundo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosFlujosDeControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumaHastaN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.SumaHastaN" />
       <module name="HolaMundo" />
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaNotasAlumnos" />
         <item itemvalue="Application.EncontrarMenorDeMultiplesValores" />
         <item itemvalue="Application.SumaHastaN" />
         <item itemvalue="Application.BuscarEnMatriz" />
         <item itemvalue="Application.PromedioCalificaciones" />
-        <item itemvalue="Application.DiaMesSwitch" />
       </list>
     </recent_temporary>
   </component>

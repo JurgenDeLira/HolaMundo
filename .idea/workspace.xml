@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bfa305e5-2f66-49db-bdc7-6a5ffb8c20a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PromedioCalificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosFlujosDeControl/PromedioCalificaciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     "Application.EjemploStringMetodos.executor": "Run",
     "Application.EjemploStringMetodosArreglo.executor": "Run",
     "Application.EjemploStringValidar.executor": "Run",
+    "Application.EncontrarMenorDeMultiplesValores.executor": "Run",
     "Application.EvaluadorDeDesempeño.executor": "Run",
     "Application.EvaluadorDeDesempeñoArray.executor": "Run",
     "Application.Inmutabilidad.executor": "Run",
@@ -68,7 +68,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BuscarEnMatriz">
+  <component name="RunManager" selected="Application.EncontrarMenorDeMultiplesValores">
     <configuration name="BuscarEnMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.BuscarEnMatriz" />
       <module name="HolaMundo" />
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositivoNegativoCero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.PositivoNegativoCero" />
+    <configuration name="EncontrarMenorDeMultiplesValores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.EncontrarMenorDeMultiplesValores" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EncontrarMenorDeMultiplesValores" />
+        <item itemvalue="Application.SumaHastaN" />
         <item itemvalue="Application.BuscarEnMatriz" />
         <item itemvalue="Application.PromedioCalificaciones" />
-        <item itemvalue="Application.SumaHastaN" />
         <item itemvalue="Application.DiaMesSwitch" />
-        <item itemvalue="Application.PositivoNegativoCero" />
       </list>
     </recent_temporary>
   </component>

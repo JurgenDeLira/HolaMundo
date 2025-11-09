@@ -51,6 +51,7 @@
     "Application.Inmutabilidad.executor": "Run",
     "Application.IntroduccionALosStrings.executor": "Run",
     "Application.MetodosImportantesString.executor": "Run",
+    "Application.MultiplicarDosNumeros.executor": "Run",
     "Application.ObtenerExtensionArchivo.executor": "Run",
     "Application.OperadorTernario.executor": "Run",
     "Application.OperadoresBasicos.executor": "Run",
@@ -69,7 +70,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SistemaNotasAlumnos">
+  <component name="RunManager" selected="Application.MultiplicarDosNumeros">
     <configuration name="BuscarEnMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.BuscarEnMatriz" />
       <module name="HolaMundo" />
@@ -96,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PromedioCalificaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.PromedioCalificaciones" />
+    <configuration name="MultiplicarDosNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosFlujosDeControl.MultiplicarDosNumeros" />
       <module name="HolaMundo" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicarDosNumeros" />
         <item itemvalue="Application.SistemaNotasAlumnos" />
         <item itemvalue="Application.EncontrarMenorDeMultiplesValores" />
         <item itemvalue="Application.SumaHastaN" />
         <item itemvalue="Application.BuscarEnMatriz" />
-        <item itemvalue="Application.PromedioCalificaciones" />
       </list>
     </recent_temporary>
   </component>
